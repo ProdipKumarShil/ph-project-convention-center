@@ -1,0 +1,7 @@
+.b-img{
+    width: auto;
+    height: 505px;
+    object-fit: cover;
+    object-position: top;
+    filter: brightness(50%);
+}
