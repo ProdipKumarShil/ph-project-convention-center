@@ -5,3 +5,32 @@
     object-position: top;
     filter: brightness(50%);
 }
+.custom-btn{
+    width: 90%;
+    border-radius: 40px;
+    padding: 12px;
+    font-weight: bold;
+    background-color: rgba(236, 182, 182, 0.365);
+    color: #4788e9;
+    border: none;
+    margin: 0 auto;
+}
+.custom-btn-2{
+    width: 90%;
+    border-radius: 40px;
+    padding: 12px;
+    font-weight: bold;
+    background-color: rgb(247, 234, 234);
+    color: #4788e9;
+    border: none;
+    margin: 0 auto;
+}
+.text-gray-color{
+    color: gray;
+}
+.icon-color{
+    color: rgb(172, 114, 234);
+}
+.text-white-2{
+    color: azure;
+}
